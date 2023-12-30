@@ -7,5 +7,8 @@ export default {
 };
  
 export const Usage = () => (
-<Hero />
-);
+  <>
+    <Hero />
+  </>
+
+    );
