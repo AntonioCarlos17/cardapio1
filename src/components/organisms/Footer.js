@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { FaInstagram, FaHouse } from "react-icons/fa6";
+import { FaInstagram, FaHouse, FaPhone } from "react-icons/fa6";
 
 const Icon = styled.span`
     color: black;
@@ -43,7 +43,8 @@ const Footer = () => (
             <div>
               <h4> Sabor da Casa<FaHouse /> </h4>
                 <p>
-                    Nosso contato para mais informações (83) 99166-0263
+        Nosso contato para mais informações
+       <FaPhone />(83) 99166-0263
           </p>
           <p>
                 Somos o mais novo empreendimento no Sitio Estreito, nossa localização e de fácil acesso.</p>
