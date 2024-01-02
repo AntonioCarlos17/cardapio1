@@ -43,11 +43,12 @@ const Footer = () => (
             <div>
               <h4> Sabor da Casa<FaHouse /> </h4>
                 <p>
-        Nosso contato para mais informações
+        Nosso contato para mais informações<br/>
        <FaPhone />(83) 99166-0263
           </p>
           <p>
-                Somos o mais novo empreendimento no Sitio Estreito, nossa localização e de fácil acesso.</p>
+        Somos o mais novo empreendimento no Sitio Estreito, nossa localização e de fácil acesso.
+      </p>
             <p>
                 Saiba mais sobre nós na nossa rede social.
           </p>
